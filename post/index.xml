@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on GMBUP(グレートモンキーバナナ)</title>
-    <link>http://gmbup.github.io/post/index.xml</link>
+    <link>https://gmbup.github.io/post/index.xml</link>
     <description>Recent content in Posts on GMBUP(グレートモンキーバナナ)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>gmbup All rights reserved</copyright>
     <lastBuildDate>Sun, 05 Feb 2017 15:48:03 +0900</lastBuildDate>
-    <atom:link href="http://gmbup.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gmbup.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>メールが届かない</title>
-      <link>http://gmbup.github.io/post/nomail/</link>
+      <link>https://gmbup.github.io/post/nomail/</link>
       <pubDate>Sun, 05 Feb 2017 15:48:03 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/nomail/</guid>
+      <guid>https://gmbup.github.io/post/nomail/</guid>
       <description>
 
 &lt;h1 id=&#34;メールが届かない&#34;&gt;&lt;strong&gt;メールが届かない&lt;/strong&gt;&lt;/h1&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>当店取扱商品について</title>
-      <link>http://gmbup.github.io/post/rule/</link>
+      <link>https://gmbup.github.io/post/rule/</link>
       <pubDate>Sun, 05 Feb 2017 15:20:35 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/rule/</guid>
+      <guid>https://gmbup.github.io/post/rule/</guid>
       <description>
 
 &lt;h1 id=&#34;取扱商品について&#34;&gt;&lt;strong&gt;取扱商品について&lt;/strong&gt;&lt;/h1&gt;
@@ -159,10 +159,10 @@
     
     <item>
       <title>お取引の流れ</title>
-      <link>http://gmbup.github.io/post/deal/</link>
+      <link>https://gmbup.github.io/post/deal/</link>
       <pubDate>Sun, 05 Feb 2017 14:51:16 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/deal/</guid>
+      <guid>https://gmbup.github.io/post/deal/</guid>
       <description>
 
 &lt;h1 id=&#34;お取引の流れ&#34;&gt;&lt;strong&gt;お取引の流れ&lt;/strong&gt;&lt;/h1&gt;

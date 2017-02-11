@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GMBUP(グレートモンキーバナナ)</title>
-    <link>http://gmbup.github.io/index.xml</link>
+    <link>https://gmbup.github.io/index.xml</link>
     <description>Recent content on GMBUP(グレートモンキーバナナ)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>gmbup All rights reserved</copyright>
     <lastBuildDate>Sun, 05 Feb 2017 14:51:16 +0900</lastBuildDate>
-    <atom:link href="http://gmbup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gmbup.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>お取引の流れ</title>
-      <link>http://gmbup.github.io/post/deal/</link>
+      <link>https://gmbup.github.io/post/deal/</link>
       <pubDate>Sun, 05 Feb 2017 14:51:16 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/deal/</guid>
+      <guid>https://gmbup.github.io/post/deal/</guid>
       <description>
 
 &lt;h1 id=&#34;お取引の流れ&#34;&gt;&lt;strong&gt;お取引の流れ&lt;/strong&gt;&lt;/h1&gt;
@@ -72,10 +72,10 @@
     
     <item>
       <title>メールが届かない</title>
-      <link>http://gmbup.github.io/post/nomail/</link>
+      <link>https://gmbup.github.io/post/nomail/</link>
       <pubDate>Sun, 05 Feb 2017 15:48:03 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/nomail/</guid>
+      <guid>https://gmbup.github.io/post/nomail/</guid>
       <description>
 
 &lt;h1 id=&#34;メールが届かない&#34;&gt;&lt;strong&gt;メールが届かない&lt;/strong&gt;&lt;/h1&gt;
@@ -111,10 +111,10 @@
     
     <item>
       <title>当店取扱商品について</title>
-      <link>http://gmbup.github.io/post/rule/</link>
+      <link>https://gmbup.github.io/post/rule/</link>
       <pubDate>Sun, 05 Feb 2017 15:20:35 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/post/rule/</guid>
+      <guid>https://gmbup.github.io/post/rule/</guid>
       <description>
 
 &lt;h1 id=&#34;取扱商品について&#34;&gt;&lt;strong&gt;取扱商品について&lt;/strong&gt;&lt;/h1&gt;
@@ -219,10 +219,10 @@
     
     <item>
       <title>会社概要</title>
-      <link>http://gmbup.github.io/about/</link>
+      <link>https://gmbup.github.io/about/</link>
       <pubDate>Sun, 05 Feb 2017 13:03:58 +0900</pubDate>
       
-      <guid>http://gmbup.github.io/about/</guid>
+      <guid>https://gmbup.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;会社概要&#34;&gt;会社概要&lt;/h2&gt;
@@ -262,10 +262,10 @@
     
     <item>
       <title></title>
-      <link>http://gmbup.github.io/gmb001.github.io/public/README/</link>
+      <link>https://gmbup.github.io/gmb001.github.io/public/README/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://gmbup.github.io/gmb001.github.io/public/README/</guid>
+      <guid>https://gmbup.github.io/gmb001.github.io/public/README/</guid>
       <description>&lt;p&gt;��#   g m b u p . g i t h u b . i o 
  
  &lt;/p&gt;
