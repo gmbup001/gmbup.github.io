@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://gmbup.github.io/post/deal/</loc>
+    <lastmod>2017-02-05T14:51:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/post/nomail/</loc>
+    <lastmod>2017-02-05T15:48:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/post/rule/</loc>
+    <lastmod>2017-02-05T15:20:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/about/</loc>
+    <lastmod>2017-02-05T13:03:58+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/gmb001.github.io/public/README/</loc>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/</loc>
+    <lastmod>2017-02-05T14:51:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/gmb001.github/index.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gmbup.github.io/post/</loc>
+    <lastmod>2017-02-05T15:48:03+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
